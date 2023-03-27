@@ -6,7 +6,7 @@
 
 ![Screenshot (83)](https://user-images.githubusercontent.com/85434109/227869831-19c3b5cc-ab0a-430e-9b0b-cda032a272da.png)
 
-h1 align="center">It shows course cards as per our filter.</h1>
+<h1 align="center">It shows course cards as per our filter.</h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
